@@ -1,3 +1,10 @@
+// module1-solution
+// Coursera - Single Page Web Applications with AngularJS - Week 1 Course - Module 1 Solution
+// Author: Fernando Coelho
+// URL: https://nandocoelho.github.io/module1-solution/
+// Version: 1.0
+// Date: 2017-01-06
+
 (function () {
 'use strict';
 
